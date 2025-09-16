@@ -5,27 +5,6 @@ It includes tutorials, assignments, and implementation exercises for core OS con
 
 --- 
 
-## 📂 Project Structure
-
-operating-system/
-│
-├── o1tutorial/                  # Tutorial examples on OS fundamentals
-│├── ...                         # (Basic OS concepts, sample codes)
-│
-├── o2practice/                  # Practice problems and implementations
-│├── ...                         # (Assignments, coding tasks, exercises)
-│
-├── out/production/o1topics/     # Compiled Java class files
-│   └── p1multiThreading/        # Example: Multithreading programs
-│
-├── assets/                      # Diagrams, notes, supporting materials
-│
-├── .idea/                       # IntelliJ IDEA project configuration
-├── os.iml                       # IntelliJ project module file
-└── README.md                    # Project documentation
-
---- 
-
 ## 📘 Topics Covered
 
 *  Introduction to Operating Systems
