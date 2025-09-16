@@ -47,3 +47,10 @@ It includes tutorials, assignments, and implementation exercises for core OS con
 ## 🎯 Goal
 
 The goal of this repository is to learn by implementation – strengthening OS concepts by coding and practicing real-world examples.
+
+---
+
+## 📌 Author
+
+*  👤 Sandip Kumar 
+*  GitHub Profile - https://github.com/krSandip
